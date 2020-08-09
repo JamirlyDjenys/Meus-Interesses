@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+  background-image: url(https://portalcorreio.com.br/wp-content/uploads/2017/12/Orla-de-Jo%C3%A3o-Pessoa.jpg);
+  background-size: cover;
+  background-position: left;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+#cabecalho {
+  background-color: Crimson;
+  padding: 20px 0px 20px 20px;
+  font-family: "Courier New", Courier, monospace;
+  color: OldLace;
+}
+
+.texto1 {
+  width: 65%;
+}
+
+figure.Perfil img {
+  float: right;
+  margin-top: -120px;
+  border: 20px solid LightCoral;
+}
+
+figure#Galeria img {
+  border: 20px solid Crimson;
+  margin: 10px;
+}
+
+table {
+  
+  margin: auto;
+}
+
+table.tabelaReceitas {
+  background-color: LightSeaGreen;
+  border: 3px solid LightYellow;
+  padding: 10px;
+}
+
+table.tabelaReceitas th {
+  border: 3px solid LightYellow;
+  padding: 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16pt;
+  color: OldLace;
+}
+
+table.tabelaReceitas td {
+  border: 3px solid LightYellow;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  font-size: 12pt;
+  color: OldLace;
+}
+
+table.tabelaReceitas a {
+  color: OldLace;
+}
+
+div#livros {
+    /*background-color: Crimson;*/
+}
+
+figure#capas img {
+  width: 130px;
+  border: 10px solid;
+  margin:10px;
+}
+
+p {
+  background-color: Cornsilk;
+  font-family: 'Roboto Slab', serif;
+  font-size: 14pt;
+  text-indent: 30px;
+  padding: 10px 10px 10px 10px;
+}
+
+ul {
+  background-color: Crimson;
+  padding: 10px 10px 10px 50px;
+}
+li {
+  font-family: 'Roboto Slab', serif;
+  font-size: 14pt;
+  color: GhostWhite;
+}
+
+a {
+  
+}
